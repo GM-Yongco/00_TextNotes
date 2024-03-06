@@ -1,0 +1,77 @@
+==================================================
+ USER/CUSTOMER FLOW
+==================================================
+	A to all of Bs
+	made of shapes
+	all interactions in the site
+	
+	START and END interaction to lead to another
+		entry point -> final interaction
+		
+	can be customizable
+		recommended to use simple colours 
+			to give more focus on the content like for wire frames
+			give details to what kind of screen/action
+			be consistent
+		industry standard
+			circle for entry
+			rectange some sort of screen or shape
+				no neeed action 
+			diamond is a desision diamond/conditions
+				yes or no thingy
+			line leads from one place to another
+		
+	LEVEL UP TO SCREEN FLOW DIAGRAM
+		do that by changing the screen shapes to actual screens
+		
+		
+==================================================
+ USER/CUSTOMER JOURNEY
+==================================================
+	definitions
+		narrative on how a user would get on your platform
+		tool to help you understand your users more
+		tool to help you think of different features or opportunites or pain poins
+	doesnt include the website only 
+		but feelings and decisions related to the site
+
+	parts
+		user persona
+		scenario
+			break this down to phases
+				break it down more on their 
+					mood
+					feelings
+					thoughs
+		TEMPLATE MADE BY JULES :DDD
+			phases
+				what ever phases of interaction you're making
+
+			
+			goal of the customer
+			setting
+				where the customer is doing all this in
+				can be website, can be actual location
+			
+			feelings
+			doing/action
+			thinking/saying
+			Mood graph
+			
+			opportunites/ideas
+				this is where the assisting to think of different features comes in
+
+
+	steps
+		review goals of the product
+		research
+		touchpoint/ customer gaol/intention
+		empathy map/user persona
+		BRAINSTORM
+		affinity diagram
+			basically just a specific way to organize the ideas from the brainstorming
+			i believe ppl can just organize however they want
+		sketch
+		refine and digitize
+	source of steps: UX Mastery: How to create a Customer Journey Map
+		very trying to be cool/academic even tho this thingy is very seubjective

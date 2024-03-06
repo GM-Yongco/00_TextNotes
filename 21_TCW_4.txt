@@ -1,0 +1,158 @@
+==================================================
+ MAIN
+==================================================
+
+global emograpy, migration, and global cities
+
+==================================================
+ POPULATION
+==================================================
+population changes
+	addition	births
+	reductions	deaths
+	moving in 	immigraion
+	moving out	emigration
+
+population at the end of the peroid
+minus 
+pop at the start of the period
+
+equals
+birth minus deaths
+plus
+immigration minus emmigration
+
+crude bith rate
+	number of births per 1000 people
+	usually annually
+	and same for crude death rates
+	
+
+	
+life expectancy at birth
+death rates	
+	age specific death rates
+	
+current life expectancy in the philippines = 57
+
+
+==================================================
+ MAIN
+==================================================
+
+history of demographic transition
+	transition of birth and death rates reflecting industrilization
+	
+	1 pre tansition
+		high fertility
+		high mortality
+		primary agricultural production
+		1766-1843
+		deprivation, conficts, wars, and diseases reduce the populations
+			mathusioan check
+				natural conflicts that cause people to die
+			preventative check	
+				consenting to not have babies
+	2 early transition
+		start of 19th century
+		high fertility
+		lower mortality
+		mostly cuz improvement of healthcare, public measures, nutrition
+			+ survival rate from airborne and waterborne diseases
+		development of developing countries came aftrer
+			came into after ww2
+	3 late transition
+		low fertility
+		low mortality
+		societal ideas about contraception and womens status
+	4 post transition
+		low fertility
+		low mortality
+		negative population growth
+		peak of socio economic progress
+		
+		
+		dependency ratios
+			child = 0-14
+			working = 15-64
+			old age = 65+
+			
+		child dependency ratio
+			= child/working
+		age dependency ratio
+			= old/working
+		
+==================================================
+ CONSEQUNCES OF DEMOGRAPHIC TRANSITION
+==================================================
+
+
+PROS
+	fewer children = greater investmets per child
+	longer lives = 
+		more time for non-child-rearing-activities
+		longer disability-free years
+		multigeneratoin fams are more common
+	
+	incresased old age dependency = pressure on social safety nets for the elderly
+	
+	migration flows mitigate acute effects in specific areas
+		capital flow to less developed countries with higher returns on capital
+
+==================================================
+ MIGRATION
+==================================================
+
+internal migration vs internation migration
+	within countries, between countries
+	
+other kinds of migration
+	temporary labor migration
+		OFW
+	high skill business migrants
+		pirated by another compay ish
+
+	illegal or irregular migrants
+		without necessary permits or documents
+		usually in search of employment
+	forced migration
+		wars nd stuff
+
+	family reunioin migrants
+	return migrants
+	
+trands in internation migratoin
+	rise in EN(euro nation ) states
+		coolinization
+		immigration to ENs
+	industrial revolution
+		labor for factories
+		in Ero and NA
+		until the end of WW1
+	post ww2 era
+		economic boobms in NA, EU, and Oceania
+		Immigration centers in South Europe
+			spain and italy
+		economic tigers of asia
+==================================================
+ GLOBAL CITIES
+==================================================
+
+urban center that enjoys compe advantages
+	hub with gloablized economic system
+trancends pre existing roles
+	takes on ones that are more relevant at a global scale
+
+geopolotical power center	
+	hosts political, diplomatic, and multinational organizations and events
+	holds power over affairs, policies, alliances, and relations
+cultural and trendsetting
+	cultural meltingpots
+	misc
+		fahion
+		design
+		cuisine
+		art
+		entertainment
+higher education hub
+creative industry homes

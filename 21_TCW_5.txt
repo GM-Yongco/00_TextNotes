@@ -1,0 +1,207 @@
+==================================================
+ MAIN
+==================================================
+
+Social Media and Political Action
+	especially in revolutions in the Middle East
+	"Facebook and Twitter Revolutions"
+		Pundits
+			idk who or what that is
+
+Case Study: Arab Spring
+	Mohamed Bouazizi's Death
+	
+	Setting
+		December 17, 2010
+		Sit Bouzid
+		Tunisia
+		Uneploymen rate of 30%
+	Story
+		Police confiscated small wheelbarorow of produce from him
+			cuz no permit
+		he sold stuff like this to support mum, uncle, and young sibs
+		he wanted to meet with governor
+		He bruned himself with canister of gasoline at 26 yo
+			near governor office
+			attention of president Ben-Ali
+			90% burned
+			died jan 4, 2011
+		Social media picked it up
+			company Al Jazeera
+		Ben-Ali Ouster at jan 14
+		Another protest
+			biggest in egypt
+			jan 25 2011
+			"Day of Rage"
+			Protest against Hosin MMubarak
+				he tried to block internet around the country
+	
+	
+==================================================
+ 2
+==================================================
+
+Random signals and coordination theory
+	relevant social model characteristics
+		society consists of the rich and poor
+		rich poor relationship 
+			the rich 
+				set the tax rate and 
+				set the degree of policitcal inclusiveness
+			the poor decide to
+				revolt or compromise
+		revolutions
+			may permanently destroy a portion of the countys economic capacity
+	poor engage in value calculation
+		comparative statistics in change of regime
+		assumes the poor can coordinate for protest
+			
+				
+			
+Socail media and revolution
+	plays a supportive and reinforcing role
+		affordable tool to spread information 
+	megaphone effect
+		people outside the country are more likely to interact with those in protest
+	twitter data is 
+		predictive in how likely protests will be mobilized
+		no direct effect on stock market valuations connected to ruling regime
+
+Fake News
+	too much choice effect?
+		i think supposedly the paradox of choice
+		leads to
+			confirmation bias
+				only accepting information that validates their belief
+			confirmation avoidance
+				avoiding information contrary to their beliefs
+	Case Study: Snail Mate
+
+==================================================
+ DECISIONS
+==================================================
+
+Decision Theory
+	update beliefs or consme more information
+	Bayesian probability
+	paradox of choice
+		less likely to be satisfied when more options are presendted to them
+		aka. 
+			choice overload
+			too-much-choice effect
+		decision making is time-consuming
+			makes individuals anxious about their decisions
+			choices are only satisfying to experts familiar with their choices
+		people try to avoid regrettable decisions
+			regret avoidance
+				loss adverse?
+			hindsight bias
+		satiation point
+			less satisfying to have less choices
+			more likely to be dissatisfied with more choices
+		sensitive to task environment
+			time limit on large choice pool
+				gives greater frustration, regret, and dissatisfaction
+				extended time limit only normal dissatisfaction
+			
+
+Emotion-driven decisions
+	views
+		standard
+			product of gocnitive revolution
+		zajonc
+			emotions/the affect matter
+			affects predat4es ones codnitive judgement
+		slovic
+			auto process
+			affective stimuli 
+	emotions and cognitive aka
+		system 1 and 2
+		pragmatic and narrative
+		experiential and rational
+		tacit and deliberate
+		continuum of intuitive and analytical
+	affect-driven perspective
+	
+	weird emotion stuff	
+		fear and anxietymakes people risk adverse
+		anger and excitement makes them risk-seeking
+		people easily disgusted are more likely to be conservative
+			higher disgust sensitivity predicts disapproval of homosexuals
+		emotions influence peoples decisions when they highly anticipate an outcome
+	
+==================================================
+ STUFF UNDER EMOTION-DRIVEN OUTCOMES
+==================================================
+
+Moral Judgements
+
+Risks
+	old definition
+		cognitive exercise of assigning probability to happenings
+	risk as a feeling
+		people in this feeling feel hightened vividness
+
+Tragic Outcomes
+	high emotional conflict when the outcome has high emotional ties
+		ex: euthanasia
+	risky choices become emotionally charged
+		can excite somoene to take risks
+		
+==================================================
+ REACTIONS
+==================================================
+
+Comfirmation bias and avoidance
+	foundation of fake news
+	confirmation avoidance
+		avoiding information that poses a threat to the current status quo
+	
+
+Viral reactions
+	people prefer donaing during natural disasters
+		donations to internal affairs dropped by 3.6% in 2013 due to lack of natural disasters that year
+		there were more donations for the Haiti earthquake than for the Syrian refugee crisis even tho there were more people affected in the refugee crisis
+	second disaster 
+		over donating 
+		the disaster comes on what to do with the surplus
+			logistical problems
+	Aylan Kurdi case study
+	blood donations case study
+		they = french blood service (EFS, a french abrv)
+		they had an over abundance of blood donations
+		they asked to donate blood later
+		they had a shortage of blood in the winter holidays
+	Haiyan case study
+		58,500 dollars of in kind donations were spoiled
+	recommended to donate with money instead of goods
+		goods may be inefficient in the certain scenario
+	
+When good intentions beomce inefficient
+	case study
+		people donated a lot more to syra refugee stuff with Alan's death
+		even tho malaria has be plauging for a long time and still kill 1,200 people a day owo
+
+Identifiable victim
+	people give more to identifiable victims rather than statistical victims
+	
+==================================================
+ UNDER IDENTIFIABLE VICTIMS
+==================================================
+
+Emotional Reactions
+	more reaction to emotional content
+	in conrast to analytic considerations
+
+Certainty and uncertainty
+	people are risk adverse
+	people view certain loss worse than uncertain loss
+	specific person feels more certain
+	
+Perceived impact
+	people are more inclined to help victims when likelyhood of saving is high
+	more willing to help when the reference groups is small
+
+Psychological Distance
+	people are more likely to help those who are psychologically close to them
+	identifiable victim reduce psychological distance

@@ -1,0 +1,16 @@
+==================================================
+ MAIN
+==================================================
+
+
+usability testing
+	kinds
+		unmoderate
+		moderated
+	designer takes notes on bugs and things the trial person encounters
+		also body language and reactions
+	
+user testing
+	testing the app for the very first time
+	you and the users know the purpose
+		what they thkn of your app

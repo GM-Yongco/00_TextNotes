@@ -1,0 +1,60 @@
+==================================================
+ MAIN
+==================================================
+
+object orientend analysis
+object is the thingy
+class is the bplue print
+
+UML
+	united modelling language
+	
+Object definioint in UML
+	oval divided into 3
+		name
+		attributes
+		methods
+	instances of objects are square
+		with the attributes of the objct listed inside
+	mothods
+		can be peudo code
+		can be list, listing the actions
+		never code in documentation
+	polymorphism can make messages prodice differnt outcomes in difffernt objects
+		trigger internl changes without specifying the method's execution details
+	
+use case modelling 
+	def
+		represents steps na business funciotn or process 
+		by an external entity
+	parts
+		actor is sitck man
+		use case is an oval
+		arrow in an interaction/ one thing uses another
+	a use case can also use other use cases
+	
+use case diagram
+class diagram
+	how one class reated to instances of another
+	
+sequence diagam
+	class
+	lifeline
+		x marks the end of a lifeline
+	messages
+		arrow between lifelines
+	focuses
+		vertical shape that covers the lifeline
+		where messages start and end
+		lifeline condom
+		
+state transition diagram
+
+activity diagram
+	horizontal flowchart
+	actions identifying outcomes
+	
+businesss process modelling (BPM)
+	
+	
+	

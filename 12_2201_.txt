@@ -1,0 +1,150 @@
+managing system projects
+
+project managers is a job
+	
+what is a projectsuccessful
+	on time
+	in budget
+	high quality project thatmeets user requirements
+	
+projecttriange
+	time
+	cost
+	scope
+	quality(in the middle)
+	
+	good
+	fast
+	cheap
+	
+	can maximize 2 realistically
+		good and cheap =  takes a long time
+		one needs to be sacrificed
+	
+can be initiated at other stages like prelin and initialized
+	or can be any or
+	
+	
+project manager is standard in the industry
+	and it istnt advisalbe to be filled by a prgramer or a regular manager
+	
+project manager roles
+	project planning
+	shceduling
+		schedules peoples appetites
+	monitoring
+		make sure moral is g
+	reporting
+
+
+WBS
+	work breakdown structure
+	2 chart types
+		gant
+			(we knnow what those are)
+			people prefer montly for some reason
+				i mean it feels nice
+		pert cpm charts
+			program evaluation review
+			critical path method
+				tasks point to other tasks
+			(I like this one :DDD )
+			
+		
+I dentify WBS	
+	each task must have details like time, something , and money
+	managabe units
+	milestones - reference point to monitor progress
+	
+	
+	
+how to create WBS
+	list task - more complicated than you think
+	duration variables that must be taken into account
+		size
+		human resources
+		experience with similar projects
+		constraints
+	size	
+		
+		
+estimating task duration	
+	note: tasks may not scale linearly
+	
+	
+mnager responsibilities
+	manage urnover
+	job vacancies
+	rising salaries
+	etc
+	
+bad practice to deny sick days and vacation leaves
+	managers problem is you absent
+		better to have sick day than have an unproductive work day
+
+task pattern
+	wbs must be arranged logically 
+	the pattern is called  a task patternnmultiple successor task
+	task box standard
+		start
+		id
+		finish
+		duration
+	3 pattern types	
+		dpendednt task
+		multiple successor task	
+			multiple tasks can be done in successions if the prereq is done
+		multiple predecessor
+		
+THE CRITICAL PATH	
+	delayes that would impact the projects completion date
+	important to monitor to not lose moneee
+	simple task tat blockes the critical task is called a blocker task
+	
+	
+project monitoring control
+	tickets??
+	ompare actial progress with the project planning
+	
+	peer rveies aka __ dpending on the SDLC
+		design revies
+		code reives
+		tesint reviews
+	
+industry standard for project managers is JIRAH
+	as cool integrations in github
+	ASK SIR LATER
+	but sir likes trello
+
+risk management
+	develop management plan
+	identify
+	alayze
+	
+manageing successions
+	manage expectations (yes plsss)
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

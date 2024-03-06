@@ -1,0 +1,143 @@
+==================================================
+ MAIN
+==================================================
+
+before getting into a business, must evaluate your:
+	interest
+	experiences
+	skills
+	community needs
+	
+positive personal qualities
+	human relations
+		means you can be available to other peope
+		can interact with different people and have diff personalities for them
+	social contracts
+		know how to sociallize
+		basically know how to navigate social stuff
+	business experiences
+		not necessary when we start owo
+	physically fit	
+	
+why people go to business
+	personal satisfactoin
+	family involement
+	independences and power; profit expectation
+	social activities
+	
+	
+types of business
+	sole proprietorship
+		business is not a seprate entity from the owner
+	partnership
+		both contract and business organization
+		1 < n of people < 5
+			a thingy sir said and not really in the ppt
+	corporation
+		artificail being
+		created by operation of law
+		right of succession and the power, attributes, and properties it owns
+			successional rights
+		power and attributes/properties are provided for by the law
+		
+		
+partnership vs corpo
+	1 
+		part is consent and agreement
+		approval of securities and Exchange commission (SEC)
+	2
+		part is  > 2
+		corpo is < 16 
+	3
+		depends on what partners agree upon, and desnt vaidate laws
+		corpo based on coporation code and incidental code 
+	4
+		a partner can bind the partnership
+		corpo only board of directors or a certain body with the power to do so
+	5
+		partner can be liable with their personl property
+		all stock holders are liable to the extent of their contribution
+			the face of the company faces the charges
+			known as limited liability
+	6
+		part needs consent to transfer shares/interests
+		stock holder doesnt need the consent of other stock holders to tranfer their shares
+	7 succcession and rights
+		partnership gets dissolved if ded
+		death of stockholder,  the shares get transfered to thei heirs
+		
+corporation
+	artificial being seprate legal personality created by fiction of law
+	operation of law 
+		all the consent is under SEC
+		need to follow protocol
+	rights of sucession	
+	powers and atributes
+		sue in its own name
+		aquire properties
+	liability
+		no obligation of BOD, officers, and stuff
+		basically a separation between corpo and its members regarding contracts
+
+==================================================
+ TYPES OF COPOS
+==================================================
+
+stock vs nostock corporations
+	stock
+		capital must be divided to shares
+		distribtion of shares in the form of dividends
+	non stock	
+		for general warefare not inteded for profit
+		
+private vs public
+	public
+		created by law
+		formed by government
+		for general warefare
+	private	
+		created by operations of law
+		purpose is for profit
+
+open vs closed corporation
+	membership is either open or closed to the public or limited to members
+	like the buying of stocks and stuff
+	
+class
+	parent
+		owns and controls subsidary corporations
+	subsidary
+		controlled by parent corporation
+		ex: VECO is under abwetis
+	affiliated corporation
+		relating to others by common management
+		basically sibling corporations
+	
+number of people	
+	corporate aggregate
+	corporate sole
+	
+components
+	corporatprs
+		invited to invest
+	incorporators	
+		og starters of business
+	stock holders/ share holders
+	members
+	bods or trustees
+	officers
+		minimum
+			president
+			secretary
+			trasurers
+
+==================================================
+ TYPES OF COPOS
+==================================================
+
+stocks
+	residual assets
+	residual assets 
+		leftover to creitors and liabilities
+	net assets
+		assets minus liabilities
