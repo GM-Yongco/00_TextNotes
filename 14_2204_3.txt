@@ -2,11 +2,12 @@
  MAIN
 ==================================================
 
-before getting into a business, must evaluate your:
-	interest
-	experiences
-	skills
-	community needs
+before getting into a business
+	must evaluate your:
+		interest
+		experiences
+		skills
+		community needs
 	
 positive personal qualities
 	human relations
@@ -17,7 +18,7 @@ positive personal qualities
 		basically know how to navigate social stuff
 	business experiences
 		not necessary when we start owo
-	physically fit	
+	physically fit
 	
 why people go to business
 	personal satisfactoin
@@ -25,28 +26,19 @@ why people go to business
 	independences and power; profit expectation
 	social activities
 	
-	
-types of business
-	sole proprietorship
-		business is not a seprate entity from the owner
-	partnership
-		both contract and business organization
-		1 < n of people < 5
-			a thingy sir said and not really in the ppt
-	corporation
-		artificail being
-		created by operation of law
-		right of succession and the power, attributes, and properties it owns
-			successional rights
-		power and attributes/properties are provided for by the law
-		
-		
+==================================================
+ SOLE, PARTNER, CORPO
+==================================================
+sole is basically solo
+	das it
+	the business is not a seprate entity
+
 partnership vs corpo
 	1 
-		part is consent and agreement
+		partn is consent and agreement
 		approval of securities and Exchange commission (SEC)
 	2
-		part is  > 2
+		partn is  > 2
 		corpo is < 16 
 	3
 		depends on what partners agree upon, and desnt vaidate laws
@@ -80,16 +72,18 @@ corporation
 		basically a separation between corpo and its members regarding contracts
 
 ==================================================
- TYPES OF COPOS
+ TYPES OF CORPOS
 ==================================================
 
 stock vs nostock corporations
 	stock
 		capital must be divided to shares
-		distribtion of shares in the form of dividends
+		can distribute shares in the form of dividends
 	non stock	
 		for general warefare not inteded for profit
-		
+
+==================================================
+
 private vs public
 	public
 		created by law
@@ -99,10 +93,14 @@ private vs public
 		created by operations of law
 		purpose is for profit
 
+==================================================
+
 open vs closed corporation
 	membership is either open or closed to the public or limited to members
 	like the buying of stocks and stuff
-	
+
+==================================================
+
 class
 	parent
 		owns and controls subsidary corporations
@@ -112,32 +110,95 @@ class
 	affiliated corporation
 		relating to others by common management
 		basically sibling corporations
-	
+
+ =================================================
+
 number of people	
-	corporate aggregate
-	corporate sole
-	
-components
-	corporatprs
-		invited to invest
-	incorporators	
-		og starters of business
-	stock holders/ share holders
+	corporation aggregate
+		> 1 member/corporator
+	corporation sole
+		religious
+		one member
+
+==================================================
+ COMPONENTS OF CORPOS
+==================================================
+
+incorporators	
+	articles of incorporation
+	og starters of business
+
+corporators
+	stock holder or member
+	invited to invest
 	members
-	bods or trustees
-	officers
-		minimum
-			president
-			secretary
-			trasurers
+	those who subscribe to shares of corpo
+	pretty much anyone
+stock holders/ share holders
+	(self explanatory)
+members
+	no capital or stock
+	like club member for a service
+
+board of directors or trustees
+
+officers
+	minimum
+		president
+		secretary
+		trasurers
 
 ==================================================
- TYPES OF COPOS
+ TYPES OF ASSSETS
 ==================================================
 
-stocks
-	residual assets
-	residual assets 
-		leftover to creitors and liabilities
+Share of stock
+	definition
+		an asset of stockholder
+		intangible
+		right or interest in an asset
+
 	net assets
-		assets minus liabilities
+		assets minus 
+	residual assets 
+		leftover after liabilities and paymet to creitors
+
+==================================================
+
+Types of Capital Stock
+	Authorized 
+	Subscribed/Issued
+		stuff
+		other stuff
+			subscription
+			secondary offering
+	Paid-up
+	Unissued
+	Outstanding
+	Treasury shares
+
+Retained earnings
+Equality of shares of stock
+
+==================================================
+Classes of shares
+==================================================
+
+Par Value shares
+non-par value shares
+
+common shares
+Preferred shares
+
+Convertible shares
+redeemable shares
+
+voting
+non-voting
+
+founders shares
+
+Status of shares
+	shares in escrow
+	treasury shares
+

@@ -1,5 +1,88 @@
 ==================================================
- CREATIVITY AND INNOVATION IN THE FIELD OF TECHNOLOGY
+CREATIVITY AND INNOVATION IN THE FIELD OF TECHNOLOGY
 ==================================================
 
 Creativity and inovation
+	Creativity in tech
+		ability to generate novel stuff 
+			that are good for technological domain
+		involves thinking outside the box
+		manifests through new development of stuff
+		adresses existing or future demands
+
+	innovation in tech
+		ideas to outcomes
+		lifecycle of advancement
+			conceptualization
+			design
+			implementation
+			adoption
+		integration of new tech to improve stuff
+		result in changes in the world
+		drives 
+			progress
+			econ growth
+			quality of life
+
+	ex
+		VR for mentail health	
+
+==================================================
+ BOGO MEMORIZATION
+==================================================
+
+role of creativity in tech
+	problem solving
+	cross-disciplinary collaboration
+	idea generation
+	disruption
+word to help memorize
+	we have problem
+	we get people to solve problem
+	we have idea to solve problem
+	we disrupt market
+
+==================================================
+
+importance of creativity and innovation
+	solving complex problems
+	driving technologial advancement
+	improving efficiency and productivity
+	competative advantage
+word to help memorize
+	solve complex problem
+	solve get tech advance
+	tech give efficiency
+	efficiency give competative advantage
+	
+==================================================
+
+process of innovation
+	idea generation
+	concept development
+	prototyping and testing
+word to help memorize
+	draw blueprint
+	put details in blue print
+	make and test thing on blue print
+
+==================================================
+
+imporance of itteration and adaptation
+	refinement of ideas
+	identification of weaknesses
+	adaptaiton to changing conditions
+	risk reduction
+	enhanced learning
+word to help memorize
+	furnace
+	iron weak
+	iron have diff properties when cold or hot
+	temp contoller to reduce risk of iron
+	we lear about iron faster
+
+==================================================
+
+agile vs waterfall
+	agile
+	waterfall
