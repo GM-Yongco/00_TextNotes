@@ -1,0 +1,62 @@
+==================================================
+ IDEATE
+==================================================
+
+General idea definition
+	process
+	multiple ideas on a topic
+	general ideas
+
+==================================================
+
+General idea 2 electric boogalooo
+	gather diverse team
+		prolly to cover bases
+	question the obvious
+	
+	document ALL ideas
+	QUANTITY
+	brainstorm out loud
+		to reallllyyy get ALL the ideas
+	
+	no evaluation YET
+
+how to evaluate the ideas
+	desirable	- solves a users problem well
+	feasable	- technically possible
+	viabile		- financially beneficial
+
+==================================================
+
+prep for ideation
+	empatize with user
+	define problem
+
+	gather diverse team
+	think outside the box
+	establish creative envirionment
+	set time limit
+
+==================================================
+ STORY BOARD
+==================================================
+def
+	usually minimum 6 pannels
+
+elements
+	character	- y e s
+	plot		- benefit or solution of design
+	narrative	- problem and how design solved
+	scene		- just background stuff for immersion
+
+types
+	big picture
+		user needs focus
+			context
+			why app will be usefull to them
+		best used early in design process
+	close-up
+		product focus
+		basically app navigation
+		how the app works
+		best used in the middle to end of design process

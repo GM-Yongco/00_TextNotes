@@ -47,9 +47,49 @@ formula
 ==================================================
  HYPOTHESIS STATEMENT
 ==================================================
+
+best educated guess at the solution
+
+ex
+	1
+		problem
+		Chris needs a map to know where he is, cuz he lost easy.
+		hypothesis
+		If download gps app, no more lost
+	2
+		problem
+		gran new cook, need learn recipie, want cook for best friends
+		hypothesis
+		if get recipie app, can cook for best friends
+
 ==================================================
  GOAL STATEMENT
 ==================================================
+assists in determiniing the 
+	benefit or solution of design(plot)
+	story board
+
+recommended
+	who it will affect
+	specific action on what it will do
+	the positive impact
+	defines what success is in measurable terms
+
 ==================================================
  VALUE PROPOSITION
 ==================================================
+what does the product do/why user will get affected
+	how it addresses a pain point
+
+everything the product offers
+	for others to know
+	they dont know yet *skull emoji*
+
+steps
+	describe features and benefits
+		add as much as you can
+	explain value of product
+		remove some that dont match
+	connect features and benefits with needs of user
+		remove some more that dont match
+	review the list of value propositions
