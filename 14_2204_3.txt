@@ -172,9 +172,9 @@ Types of Capital Stock
 		other stuff
 			subscription
 			secondary offering
-	Paid-up
 	Unissued
 	Outstanding
+	Paid-up
 	Treasury shares
 
 Retained earnings

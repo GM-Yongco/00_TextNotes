@@ -2,29 +2,219 @@
  INCORPORATION AND ORGANIZATION
 ==================================================
 
-not less than 15 articles of incorporations
-fle with the SEC the AOC 
+>14 incorporators for articles of incorporation
+name of corporation
+file with SEC and AOC
 
-how to incorporate
 
-contained in articles of incorporations
+contained in articles of incorporations(AOI)
 	name of corporation
 	purpose
-	principa address
-	terms of existemce
-	
+	principal address
+	terms of existence
+	details of incorporators
+	BOD or trustees
+	stock | capital of contributed if non-stock
+	not break laws
+
+
+==================================================
+ SUBTOPICS
+==================================================
+
 name of corporation
 	cannobt be misleading 
 	cannot be confusingly similar to an existing corporation
-	
 	"change of name is not change of being"
 
+purpose of corporation
+	general business transactions should be under its purpose
+	stock holder and member risks
 
-==================================================
- PURPOSE OF AN ORGANIZATION
-==================================================
+	power is determined by this
+		ultra vires - beyond the power of the corporation
 
-primary
+	primary	
+	secondary/incidental purpose
+
+principal address
+	place of business to be identified
+	must be exact
 	
-secondary
-	incidental purpose
+ammendments/changes of AOI
+	approved by majority of the board (50% + 1)
+	approval of the owners that total 2/3 representation of stock
+grounds of rejection of AOI by SEC
+	AOI is not done properly
+	purpose is bad
+	capital stock is false
+	% of stock owned is not compiled
+
+==================================================
+
+must formally organize and commence business within 2 years of
+	issuance of certificate of incorporation
+	or else the corporation will be dissolved
+
+post incorporation requirements
+	adoption of by-laws
+	election of officers
+	LGU business permit
+	BIR registration
+	AOI open officers
+	pay documentray stamp
+	hire employees
+	start business
+
+==================================================
+ BY LAWS
+==================================================
+
+definition
+	interal rules of the corporation
+	not a legal requirement
+		is a practical requirement
+	guidelines for corporation and stockholders
+
+in the by-laws
+	regular and special meetings of the board
+		time
+		plance
+		manner of conduct
+	quorum requirements
+		bare minimum # of members to be present in a meetings
+		usually 50% + 1
+	stock holders meetings
+	penalties
+	election of officers
+	qualitfications, duties, compensations
+		directors
+		officers
+		employees
+	other
+
+ammendment of by-laws requirements is thesame as the AOI
+	
+==================================================
+ BOD shite
+==================================================
+
+qualifications
+	at least one capital stock
+	majority of BOD must be a resident of the philippines
+	NOT been imprisoned for more than 6 years
+	NOT violated the corporation code 5 years prior to election
+
+election
+	quorum
+	cumulative voting
+		1 vote per share
+	report in general information sheet
+
+business judgement rule
+	directors cannot be held accountable for performace of their duties
+	court cannot suspend their judegement to the judegment of directors
+		I have no idea what that means
+	as long as director acts in good faith
+		all transactions enterned into by are binding
+		and they cannot be held accountable for it
+
+removal of a BOD member
+	2/3 cumulative stock said so
+	BOD regular meeting/special meeting/special
+	notice to all stock holers and members
+
+how vacancies are filled
+	stockholder can
+	
+	
+==================================================
+ CORPORATE POWERS
+==================================================
+
+Express/primary
+	mentioned in the AOI
+	unique to a corporation
+		depends on primay purpose
+Incidental
+	reasonably necessary for primary
+Inherent/Implied
+	by virtue of corporations existence as a judicial entity
+	common to most corporations
+	
+==================================================
+ BOOKS AND DOCUMENTS
+==================================================
+
+
+corporate books and records
+	book of minutes
+		definiton
+			formal record for proceedinds and decisions
+		kinds
+			stock holder meetings
+			board meetings
+	book of all business transactions
+	stock and transfer book
+
+documents
+	AOI, bylaws, and their ammendments/changes
+	
+	ownership and voting rights
+		members
+		group structures
+		group relations
+		ownership data
+		beneficial ownership
+	details of BOD, members, trustees, and officers
+		name and address
+	resolutions of BOD and BOT(trustees
+	
+	book of minutes)
+	record of all business transactoins
+	
+	copy of last report requirement to SEC
+
+==================================================
+ MERGER OR CONSOLIDATION
+==================================================
+
+merger
+	they merge and 
+		one corpo is dissolved
+		the other survives
+	
+consolidation
+	when 2 corpos combine to form a new 3rd corporations
+	
+reqs
+	plan of merger/consolidation
+	2/3 of cummalitive stock agrees
+	majority vote of BOD
+	signed by press of VP
+	submitted to SEC
+
+==================================================
+ ANTI-COMTETITIVE STUFF
+==================================================
+
+anti-competative agreements
+	vertical
+	horizontal
+
+bid manipulation
+	cover bidding
+		allowing one competitor to win
+	bit suppression
+		agree not to bit with others to allow one0 to win
+	bit rotation
+		agreeing who will win the bid in rotation
+
+abuse of dominant position
+	50% more market share
+	predatory pricing
+	barriers of entry
+	discriminate in price
+	
+anti-competative mergers/andquisitions
+	merger or consolidation that restricts or loosens competition
