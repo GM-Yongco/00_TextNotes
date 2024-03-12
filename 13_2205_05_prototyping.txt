@@ -1,3 +1,86 @@
 ==================================================
- MAIN
+ DESIGN FIDELITY
 ==================================================
+
+how closely the design looks to final product
+
+low fidelity(Low-Fi)
+	paper
+	digital
+	lo-fi prototypes
+
+high fidelity(HI-FI)
+	mockups
+	high-fidelity prototype
+
+==================================================
+
+Low-Fi prototypes
+	simple diagram 
+	early stange design concept
+	test UX team ideas
+		identify gaps and pitfalls
+		discard easy
+
+Mockups
+	visual representation of the product	
+		layout/heirarchy
+		color
+		typography
+		icons
+	static and no functionality
+		screenshot like
+	Hi-Fi mockups are common
+
+Hi-Fi prototypes
+	polished simulation of final product
+	shows the look and feel of the end product
+		more realistic UX
+	for testing interactivity and functionality
+
+
+==================================================
+ WIREFRAMES
+==================================================
+
+wireframe
+	2d page illustration focus on
+		space allocation
+		prio of content
+		functionalities
+		intended behavior
+		relationships between website's various templates
+	dont focus on
+		color
+		graphics
+		font
+
+elements of digital wireframes
+	logo
+	icon
+	image 
+	video 
+
+	button
+	search
+	list
+	navigation
+	link
+
+	heder
+	text field
+
+Lo-Fi paper wire frames
+	skeletonn of website
+	paper or whiteboare
+
+advantages of paper wire frames
+	cost effective
+	easy to use
+	quick itteration
+
+	universal
+	honest critique
+		no sunk cost of other person to induce fallacy
+
+

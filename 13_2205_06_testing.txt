@@ -1,3 +1,120 @@
 ==================================================
- MAIN
+ USABILITY STUDIES
 ==================================================
+Usability Testing
+	observing real users complet a task on it
+	usually observed by researchers working for a business
+	can be in-person or remote
+	reveals cutomer may experience
+		pain points
+		areals of confusion
+		opportunities to improve UX
+	
+User Testing
+	how
+		someone1 interacts
+		someone2 observes someone1
+		somoene2 gathers feedback from someone1
+		no task
+	we get
+		what users think of our product
+			how they perceive it
+		user needs
+
+==================================================
+
+Usability Study(both usability and user testing)
+	reveals issues people not familliar with website encounter
+	can visitors:
+		get lost or confused
+		complete main actions
+		encounter bugs
+		have a functional and efficient experience
+		encounter misc usability problemms
+
+Benefits of Usability Testing
+	reduce cignitive bias
+	reduce dev cost
+		save time and mone aviding mistakes
+
+	tailor to target users
+	user satisfaction and brand repuation
+	accessibility
+		physical
+		visual
+		auditory
+		cognitive
+
+==================================================
+ USABILITY TESTING
+==================================================
+
+elements
+	facilitator
+		gives tasks
+		observes
+		interviews
+	participant
+		performs tasks
+		gives feedback
+	task
+
+facilitator
+	ensures data is high-quality, valid
+	doesnt influence participants behavior
+	some of the roles can be done by an app in the context of remote unmoderated testing
+tasks
+	activities participants may perform in life
+	task working is important
+		can be misunderstood
+		psychological priming
+	can be verbal or written
+participant
+	potential user of the product
+		might already be a user
+		or a similar background to target audience
+	asked to think out loud	
+		asked to narrate actions and thoughts
+
+==================================================
+ KINDS OF USABILITY TESTING
+==================================================
+
+Remote takes less time and money than In-Person
+
+Remote moderated
+	simimlar to in person studies
+	usually skype or GoToMeeting
+Remote unmoderated
+	researcher
+		online remote-testing tool to set up written tasks
+		recieves recording of sesstion
+		recieves metrics 
+	participant
+		completes tasks (can be in their own time)
+		testing tool delivers instructions or followup questions
+
+
+==================================================
+ WHEN IS DESIGN FINISHED
+==================================================
+
+14
+feel proud of design
+
+functional within context of use?
+considered edge/corner cases?
+considered "no content" design states?
+
+tested with real users?
+work on intended target audience?
+work with realistic data?
+considered accessiblity?
+
+is design coherent with product?
+follow company's design principes?
+uses elements from company UI kits/teplates?
+
+content writer reviewd writing?
+dev reviewd if we can we support all the data?
+prepped documentation/assets for dev team?
