@@ -1,0 +1,72 @@
+==================================================
+ Empathy in design thinking
+==================================================
+
+Empathy
+	ability to sense other peoples emotions
+	with ability ti imagine what someone else might be thinking of feeling
+
+Empathy vs Sympathy
+	empathy		- actually feeling (empath)	- active	- root of problem
+	sympathy	- typically pity			- passive	- unsolicited advice, judegement
+
+Phases of Empathy
+	discover
+	imersion
+	connection
+	detatchment
+
+==================================================
+ PAIN POINTS
+==================================================
+
+definitions
+	areas of digital interaction 
+		causes difficulty 
+		invokes negtive emotions for users
+	obstructs users form reaching their goal
+		convolutions that decrease efficiency
+	can be minor inconvenience or major issues
+
+types
+	financial
+	product
+		quality issues
+	process
+		from point A to B
+	support
+		cant find answers to questions
+
+How to empathize with users
+	open mind	- reduce bias
+	keep updated on UX
+	
+bias
+	favoring/predjudice against some(thing/one) 
+	based on limited info
+
+==================================================
+ USER PERSONA
+==================================================
+
+definitions	
+	fictional characters
+	represents user types that uses the app in a similar way
+	helps understand user 
+		needs
+		experiences
+		behaviors
+		goals
+	helps mitigate bias
+	helps decomplexify design tasks
+		guide ideation process
+		help create a good ux for target user group
+
+recommended
+	image
+	bio
+	personal quote
+	breif story
+	
+	goals
+	frustrations

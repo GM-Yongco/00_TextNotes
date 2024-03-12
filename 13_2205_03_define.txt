@@ -1,0 +1,55 @@
+==================================================
+ DEFINE
+==================================================
+definition
+	analyze research findings from empathize phase
+	determine which problem are most important to solve
+	clear problem statement
+		description of user's needs
+
+==================================================
+ USER STORY
+==================================================
+
+fictional story from user pov for design decisions
+	usually one sentence
+
+pros
+	prioritize design goal
+	unite ideas
+	empathetic design decisions
+	persononalize pitches and stakeholders
+	
+formula
+	{user_type}, wants to {action}, because {user_benefit}
+
+
+==================================================
+ PROBLEM STATEMENT
+==================================================
+
+clear description of user needs
+
+recommendations
+	establish a goal
+	define variables
+	understand constraints
+		broad enuff for creativity
+		narrow enuff for design
+	benchmark success
+	
+	human-centered
+
+formula
+	{user_name} has {user_characteristic}
+	needs {user_needs} because {user_benefit}
+
+==================================================
+ HYPOTHESIS STATEMENT
+==================================================
+==================================================
+ GOAL STATEMENT
+==================================================
+==================================================
+ VALUE PROPOSITION
+==================================================
