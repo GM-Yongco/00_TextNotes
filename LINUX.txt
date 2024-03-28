@@ -1,0 +1,15 @@
+list files and directories and file in current directory
+	ls
+
+change directory
+	cd full/path/to/directory
+	cd relative/path/to/directory/from/here
+	cd ..
+		previous directory
+
+move file
+	mv file.txt path/to/directory/
+	mv file1.txt file2.txt path/to/directory/
+
+remove file
+	rm file1.txt
