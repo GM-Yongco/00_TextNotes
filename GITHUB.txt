@@ -65,11 +65,14 @@ git
 	
 	checkout <name of new branch>
 		switch to another branch
-	branch -m <old branch name> <new branch name>
-		note: 
-			you need to be in another brach to rename
-			git doesnt allow you to rename the branch you are currently in
-		
+	branch 
+		-m <old branch name> <new branch name>
+			note: 
+				you need to be in another brach to rename
+				git doesnt allow you to rename the branch you are currently in
+		-d <branch name>
+			this is for deleting
+			
 ==================================================
  AUTHENTICATION
 ==================================================
