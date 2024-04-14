@@ -72,6 +72,10 @@ git
 				git doesnt allow you to rename the branch you are currently in
 		-d <branch name>
 			this is for deleting
+		-r 
+			list all remote branches
+		-a 
+			both remote and local branches
 			
 ==================================================
  AUTHENTICATION
@@ -84,5 +88,9 @@ for information on currently recommended modes of authentication.
 
 ssh-keygen -t rsa -b 4096 -C "<your email>"
 	this creates the ssh key
+
+cat ~/.ssh/id_rsa.pub
+	reads and copies the contents of the ssh key 
+	for easy copy pasting
 	
-then we put the file ssh toke code into github
+then we put the file ssh token code into github
