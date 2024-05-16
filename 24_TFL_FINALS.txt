@@ -1,0 +1,29 @@
+==================================================
+ MAIN
+==================================================
+
+Management Information Systems (MIS) characteristics
+	1
+		formal
+		computer-based
+		
+		collection of data an info structure
+		store large quantities of data transactions
+
+		organized logically
+		intended to manipulate data to assist in decisions
+		can be used ((by >1 people) && (for >1 things))
+	2
+		record keeping
+		data processing
+		equivalent can be shared 
+		different level managesment can easily access data
+		can only be used by authorized personnel
+		
+	required for/because of:
+		organiztion of data to turn to information
+		complex data transfer and communication
+		multiple ways to obtain the same data
+		repetition and redundancy of data
+		easy access to larger data source
+		info support?
