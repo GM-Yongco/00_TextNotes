@@ -3,3 +3,18 @@
 ==================================================
 
 Im assigned to morning test # 5 and 56
+
+5
+	left
+	right
+	print
+
+56 is  just math
+	honestly idk the formula for this but 
+	logically with the first 2 equations x and y are interchangable 
+		and the max value for both is 4
+		and the bigger multiple in the z equation is 4 paired with y
+
+	x < 4 - y
+	z = 12 - y + 4y
+	z = 12 + 3y
