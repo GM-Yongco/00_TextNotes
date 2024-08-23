@@ -1,0 +1,65 @@
+==================================================
+ INTERVAL
+==================================================
+
+definition 1
+	x and y is in I
+	and 
+	z is in R
+	if x <= z <= y
+	then z is in I
+
+definition 2
+	set of points within a boundary
+
+types:
+	closed bounded	()	exclusive
+	open bounded	[]	inclusive 
+	left half open	[)	left inclusive
+	right half-open	(]
+
+==================================================
+ABSOLUTE VALUE
+==================================================
+
+definition
+	absolute value of n is the distance between n and 0 on the number line
+	negative distance does not exist except with subject to direction
+
+properties
+	non-negativlity
+	symmetry
+	identity
+	positive-definiteness
+
+	multiplicativeness
+		|x * y| = |x| * |y|
+	preservation of division 
+		|x / y| = |x| / |y|
+		if y being the denominator != 0
+	
+	sub additivity 
+		|x + y| <= |x| + |y|
+		< in the case either x or y is negative
+	equivalent to subadditivity
+		|x - y| >= | |x| - |y| |
+		> in the case either x or y is negative
+		kindah the negative version of  sub add
+	triangle inequality
+		|x - y| <= |x - z| - |z - y|
+		just added a z and a -z in the middle of sub additivity
+			removing the absolute value, the z would cancell each other
+			
+			
+==================================================
+PRINCIPLE OF MATHEMATICAL INDUCTION
+==================================================
+	
+only works if we use natural numbers
+
+	prove function f(1) is true
+	assume f(k) is true
+	prove f(k+1) is true
+	then it should be g
+
+
