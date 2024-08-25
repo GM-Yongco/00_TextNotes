@@ -18,3 +18,29 @@ Im assigned to morning test # 5 and 56
 	x < 4 - y
 	z = 12 - y + 4y
 	z = 12 + 3y
+
+==================================================
+Q3
+	EASY POST FIX ALGO
+
+	100 5 6 2 + * 12 4 / − − 36 −
+
+	100: Push 100 onto the stack.
+	5: Push 5 onto the stack.
+	6: Push 6 onto the stack.
+	2: Push 2 onto the stack.
+	+: Pop 2 and 6, calculate 6 + 2 = 8, push 8 onto the stack.
+	*: Pop 5 and 8, calculate 5 * 8 = 40, push 40 onto the stack.
+	12: Push 12 onto the stack.
+	4: Push 4 onto the stack.
+	/: Pop 4 and 12, calculate 12 / 4 = 3, push 3 onto the stack.
+	−: Pop 3 and 40, calculate 40 - 3 = 37, push 37 onto the stack.
+	−: Pop 37 and 100, calculate 100 - 37 = 63, push 63 onto the stack.
+	36: Push 36 onto the stack.
+	−: Pop 36 and 63, calculate 63 - 36 = 27.
+
+==================================================
+Q6
+	i hate Q6
+	the loop usually goes on if the if statement is true 
+	ITS NOT SUPPOSED TO REAK IF THE IF STATEMENT IF FALSE
