@@ -1,0 +1,13 @@
+==================================================
+ MAIN
+==================================================
+
+=IF(
+	D8 = "",
+	"",
+	IF(
+		DATE(YEAR(TODAY()),MONTH(D8),DAY(D8))>TODAY()-1
+		,DATE(YEAR(TODAY()),MONTH(D8),DAY(D8)), 
+		DATE(YEAR(TODAY())+1,MONTH(D8),DAY(D8))
+	)
+)
