@@ -1,13 +1,22 @@
 ==================================================
- MAIN
+ SORT BY DATE ARRANGEMENT FUNCTION
 ==================================================
 
 =IF(
-	D8 = "",
+	D28 = "",
 	"",
 	IF(
 		DATE(YEAR(TODAY()),MONTH(D8),DAY(D8))>TODAY()-1
 		,DATE(YEAR(TODAY()),MONTH(D8),DAY(D8)), 
 		DATE(YEAR(TODAY())+1,MONTH(D8),DAY(D8))
+		AND(
+			DATE(YEAR(TODAY()),MONTH(D28),DAY(D28)) < TODAY() + 1,
+			OR(
+				F28 = "done",
+				F28 = "month"
+			)
+		),
+		DATE(YEAR(TODAY())+1,MONTH(D28),DAY(D28)),
+		DATE(YEAR(TODAY()),MONTH(D28),DAY(D28))
 	)
 )
