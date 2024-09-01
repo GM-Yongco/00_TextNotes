@@ -6,9 +6,6 @@
 	D28 = "",
 	"",
 	IF(
-		DATE(YEAR(TODAY()),MONTH(D8),DAY(D8))>TODAY()-1
-		,DATE(YEAR(TODAY()),MONTH(D8),DAY(D8)), 
-		DATE(YEAR(TODAY())+1,MONTH(D8),DAY(D8))
 		AND(
 			DATE(YEAR(TODAY()),MONTH(D28),DAY(D28)) < TODAY() + 1,
 			OR(
@@ -20,3 +17,15 @@
 		DATE(YEAR(TODAY()),MONTH(D28),DAY(D28))
 	)
 )
+
+==================================================
+ NEXT WEEK FUNCTION
+==================================================
+
+=TODAY() + 7 - WEEKDAY(TODAY()) + 2
+
+==================================================
+ FORTNIGHT FUNCTION
+==================================================
+
+=TODAY() + 14 - WEEKDAY(TODAY()) + 2
