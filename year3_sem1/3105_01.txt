@@ -1,0 +1,54 @@
+==================================================
+ DEVELOPMENT ENVIRONMENTS TOOLS AND METHODOLOGY
+==================================================
+
+kinds of environments
+	local environment
+	stagiing
+	prod
+
+DE 
+IDE
+version control
+
+staging and prod is just local but more stable
+	staging for other devs
+	prod for users
+
+Cloud and Containerized environment
+	gitpod
+	aws clound9
+	
+extensions
+	angular language services 
+	vue
+	uno css
+	wsl for linux commands
+	pug to html
+	prettier
+	code fomatter
+	vs lint
+	git lense
+	javascript debgger extension using breakpoints and such
+	
+githib checks 
+	you can use scripts to automate to check if there are console logs in production nd shite
+
+
+
+==================================================
+ COMMAND LINE TOOLS
+==================================================
+
+popular
+	chrome dev tools
+	GDB
+	PDB
+	
+testint tools
+	selenium
+	JUnit
+	PyTest
+
+try:
+	persistence in elements in chrome dev tools

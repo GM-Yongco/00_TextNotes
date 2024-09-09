@@ -1,0 +1,117 @@
+==================================================
+ FUNCTIONS
+==================================================
+
+realtion vs function
+	relation is a mapping of any numbers to any numbers
+		can be one to many and many to one
+		can be one to one and below
+	functions are relations tha have limitations
+		cant be one to many
+		but can be many to one
+	graphically, functions cant have any points with the same x value
+		basically saying cant be one to many
+		vertical line testing
+		assuming it is a mapping of x to y
+		
+well defined function
+	to guarantee the function is not empty
+	has at least one element to satisfy the function
+	
+f(a) = b where 
+	a is an element of A
+	b is an element of B
+	
+	a is the pre-image of b under f
+	b is the image of a under f
+
+	A is the domain of f
+	B is the codomain of f
+		the possible outputs before the function is defined
+	
+	range is the set of outputs of the function
+		set of all b?
+		range will always be found within the codmain
+		range is unknown until the output/function is defined
+	
+	note: a function doesnt have to map all of its domain to a codomain
+		ex: f: R->R where f(x) = 1/x
+			x = 0 doesnt map to anything 
+	
+ex 
+	f:R->R 
+		where R is the set of all real numbers
+		where f(x) = x^2
+		where x is an element of R
+	domain and co domain is R
+		the possible outputs before the function is defined
+	range is R+ U {0}
+		range will always be found within the codmain
+		range is unknown until the output/function is defined
+	note f:R->R defines the domain and co-domain
+		a function where R maps to R
+		
+==================================================
+ OPERATIONS
+==================================================
+		
+we can sum and multiply functions
+	f + g 
+	
+function compositions
+	syntax is a hollow circle
+	the composition of f of g
+		(f o g)(a) = f(g(a)
+	the range of g must be a subset of f's domain
+	note (f o g) != (g o f)
+
+note: empty set is not finite; you cant quantify nothingness?
+
+==================================================
+ KINDS OF FUNCTIONS
+==================================================
+
+one-to-one
+	injective functions
+	every element of its range has only one pre-image
+	conditions:
+		strictly monotonically increasing or decreasing
+			if x > y then f(x) > f(y)
+			or
+			if > < y then f(x) < f(y)
+			can also be the horizontal line test me thinks?
+		
+many-to-one
+	is not a one-to-one function
+	
+onto property
+	surjective
+	functions doesnt have to map all of its Domain
+	range is equal to the codomain
+	
+	ex g: R->R where g(x) = x^2 is not onto 
+		because the x^2 yeilds only 0 and R+ 
+		the R- in the range is not used and therefore not onto
+		
+==================================================
+
+bijections
+	f: A->B the bijection is f^-1:B->A
+	
+	weird thing identity functions
+		ff^-1(x) = x
+		the f and the f^-1 cancell each other out
+		
+Identity functions
+	f: A->A
+		function where a is an element of A such that f(a) = a
+
+
+==================================================
+
+if x is an element of R
+	floor(-x) = -ceiling(x)
+	ceiling(-x) = -floor(x)
+
+if x is an element of Z
+	floor(x) = ceiling(x) = x

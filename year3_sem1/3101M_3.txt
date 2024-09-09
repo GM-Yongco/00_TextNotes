@@ -1,0 +1,55 @@
+==================================================
+ MAIN
+==================================================
+
+lim (n - 1/n)
+lim(1) - lim (1/n)
+1-0
+1
+
+==================================================
+
+divide by the highest exponent of a var
+
+lim(n/n+1)
+
+highest exponent of n is 1
+then divide the numberator and divisor by n
+
+lim(n/n) / lim((n+1)/n)
+1/lim(1 + 1/n)
+1/ (lim(1) + lim(1/n))
+1/ (1 + 0)
+1
+
+==================================================
+
+lim((n^2) / n+1 )
+lim(n^2) / lim(n+1)
+
+==================================================
+ M-TAIL
+==================================================
+
+im gonna use ` for subscript
+
+X = { x`1, x`2, x`3 ...}
+
+X`m 
+	<x`(m+1) , x`(m+2) , ...> 
+where
+	X`(m+n): n is an element of N>
+	m is an element of R
+	m is > 0
+
+==================================================
+
+equation where
+	x = 1/n
+	m = 15
+m-tail 
+	x`15 = 1/16 + 1/17 + 1/18 ...
+	the elements approach 0
+	therefore the limit of 1/n is 0
+	
+
