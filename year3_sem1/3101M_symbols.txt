@@ -2,8 +2,29 @@
  MAIN
 ==================================================
 
-equivalent	 - colon with tripple equals
-for all		- upsidedown A
-element of	- a weird smol curvy big 'e'
-for some	- flipped big E
-subset		- a 'u' but like in c formation, emphasis on the longer and straight magnet bitz
+U or T		: Universal set			Basically all the elements we are working with atm
+{}, Ø, or F	: Null set/Empty set	Set with nothing in it
+	is a subset of every set/said to be in every set
+	And by definition disjoint
+
+==================================================
+
+N 	: Natural numbers		(1 and integers above)
+W 	: Whole numbers 		(0 and integers above)
+Z 	: Integers				Basically all whole positive and negative numbers
+Q 	: Rational numbers 		Defined as {x|x = p/q where p and q are elements of Z and q!=0}
+H 	: Irrational numbers	Aka Qc	every other number that isn't rational
+R 	: Real numbers			Q u Qc
+C 	: Complex numbers		(the shit with the i = sqrt(-1))
+
+==================================================
+
+:=	: definition/defined as
+≠	: Not equal
+~/¬	: Not
+∈	: Element of
+∀	: For all
+Ǝ	: For some/There exists
+
+==================================================
+
