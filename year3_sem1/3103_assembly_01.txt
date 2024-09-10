@@ -1,0 +1,71 @@
+==================================================
+ MAIN
+==================================================
+
+Von Neumann
+
+Von Neumann Architecture
+	bottle neck is the bridge between the cpu and the MEMORY
+	they didnt have cache and the cpu was a lot faster than reading the memory
+		means they had to connect to memory all the time
+		cache: lvl 1, lvl 2, lvl 3
+	comparisons
+		sequential processing
+		von neumann bottleneck
+		easier
+		flexible
+
+Harvard Archtecture
+	had 2 memory stores
+		one for instruction and data memory
+	concurrent access
+	comparisons
+		parallel processing
+		improved speed
+		more secure cuz instructions are in ROM
+		cant change instructions
+
+==================================================
+ INSTRUCTION SET ARCHITECTURE
+==================================================
+	
+RISC (Reduced)
+	around 60 instructions
+	hardware implemented
+	consumes less energy, and is a cooler system
+	mac and android
+CISC (Complex)
+	141 instructions
+	software implemented
+	can do more with less instructions
+	intel uses CISC
+
+IBM Set Computer made the instruction set for basically every cpu
+	HP
+	lenovo
+	Acer
+
+ARM(Advanced RISK Machine)
+
+==================================================
+ CPU
+==================================================
+
+fetch -> decode -> execute -> store -> repeat
+
+program instrution Decoder
+	
+
+timing unit
+	used to overclock
+	controls and paces the CPU
+	synchronizes the cpu
+	
+==================================================
+ THINKS TO ASK
+==================================================
+
+if arm doesnt have a bios
+	does it mean it has a different heirarchy
+windows on mac dual boot
+how to change OS when in arm architecture
