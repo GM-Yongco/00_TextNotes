@@ -51,5 +51,7 @@ m-tail
 	x`15 = 1/16 + 1/17 + 1/18 ...
 	the elements approach 0
 	therefore the limit of 1/n is 0
-	
 
+==================================================
+
+sequence is a sum of the elements in a series
