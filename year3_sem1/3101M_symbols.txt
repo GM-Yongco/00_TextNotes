@@ -27,4 +27,3 @@ C 	: Complex numbers		(the shit with the i = sqrt(-1))
 Ǝ	: For some/There exists
 
 ==================================================
-

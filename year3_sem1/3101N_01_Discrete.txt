@@ -1,0 +1,30 @@
+==================================================
+ MATRIX MULTIPLICATION
+==================================================
+
+you can multiply if the latter and the former dimensions of the matrix are the same
+ex 
+	3x2 and 2x2
+	4x1000 and 1000x500
+ex of not
+	3x3 2x2
+	3x7 3x7
+
+you multiply rows and columns weirldy
+
+matrix 1 multiplied with
+	-1, 3
+	4, -2
+	5,0
+matrix 2
+	-3, 2
+	-4,1
+equals
+	-1(-3)+ 3(-4), -1(2) + 3(1)
+	3(-3)+ -2(-4), -4(2) + 2(1)
+	5(-3)+ 0(-4), 5(2) + 0(1)
+equals
+	-9, 1
+	-4, 6
+	-15, 10
+

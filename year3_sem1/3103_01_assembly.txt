@@ -59,7 +59,46 @@ program instrution Decoder
 timing unit
 	used to overclock
 	controls and paces the CPU
-	synchronizes the cpu
+	synchronizes the parts of the computer
+	is part of the motherboard
+	
+main parts
+	control unit
+		program counter
+		sequencer
+		OP code converter
+		Instruction register
+			used to take the instructions from the ram
+		Instruction data
+		Instruction decoder
+	ALU
+		does the main math thingies
+			math operations
+			bit shifting
+			logic
+			transfer data from registers
+			misc(specially programmed operations)
+		has stuff
+			has its own storage/
+				accumulator for arithmetic 
+	Register set
+		is the storage for the cpu
+			note: there is a cache outside the cpu as well
+		parts
+			PC
+			IR
+			DR
+		is the interface between the ram and the cpu
+		note: 16 bit register for class later 
+
+sequencer basically coordinates the cpu parts and then goes to next intruction
+	activates one pin at a time for each part of the cpu
+	can activate multiple parts at a time
+	
+==================================================
+
+m1 chip is an SOE (system-on-chip)
+	everything is on one chip
 	
 ==================================================
  THINKS TO ASK

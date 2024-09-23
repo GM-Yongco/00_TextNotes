@@ -1,0 +1,18 @@
+==================================================
+ LIMIT TESTS
+==================================================
+
+note 
+	lim(n^(1/n)) = 1
+	lim( n root (n) ) = 1
+
+converget or non convergent
+	DCT (direct comparison test)
+		
+	ASN (alternating series test)
+		can only be used when x of n is > 0
+		converges if x (of n+1) 
+	Ratio test
+		series with non-zero terms
+		
+	Root test

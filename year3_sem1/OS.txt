@@ -1,0 +1,14 @@
+==================================================
+ MAIN
+==================================================
+
+operating system services on top of each other
+	user
+	gui, touch, command line
+	user interface
+	system calls
+	program execution, io operations, file systems, communication, resource allocation...
+	OS
+	hardware
+	
+command line interpretter

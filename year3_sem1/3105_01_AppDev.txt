@@ -52,3 +52,24 @@ testint tools
 
 try:
 	persistence in elements in chrome dev tools
+
+==================================================
+ CROSS PLATFORM MOBILE DEVTOLS 
+==================================================
+
+DART
+	techincal af 
+	backend-y more technical
+RECT NATIVE
+	iver the air updates
+	was designed after react
+	design to meet the needs of facebook mobile
+	facebook also made react
+		react was design to cater to all the devices in the market
+		doesnt matter what browser you use
+	fast polling
+
+flutter for image intensive
+	made by google
+
+expo has the instantaneous updates
