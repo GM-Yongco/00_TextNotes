@@ -1,0 +1,66 @@
+==================================================
+ LIMIT TESTS
+==================================================
+
+note 
+	lim(n^(1/n)) = 1
+	lim( n root (n) ) = 1
+
+converget or non convergent
+	DCT (direct comparison test)
+		
+	ASN (alternating series test)
+		sum where n = 1 to infinity of ((-1)^n) (a sub n)
+			if(	(a sub n) > 0 for all n && /*aka positive*/
+				(a sub n) >= (a sub (n+1)) && /*aka decreasing*/
+				lim (a sub n) == 0 /*approaches zero*/
+			){
+				the series is coverging
+			}
+
+	Ratio test
+		series with non-zero terms
+		sum where n = 1 to infinity of a sub n
+			where L is the limit of | [a sub (n+1)] / a sub n |
+			if(L < 1){convergent}
+			elif(L == 1){inconclusive // use another test}
+			else(L > 1){divergent}
+		
+	Root test
+		sum where n = 1 to infinity of a sub n
+			where L is the limit of root n of | a sub n |
+			if(L < 1){convergent}
+			elif(L == 1){inconclusive // use another test}
+			else(L > 1){divergent}
+
+==================================================
+
+absolute convergence vs conditional convergence
+	if (|a of n| = convergent && (a of n) = convergent){
+		series is absolutely convergent
+	}elif(|a of n| = divergent && (a of n) = convergent){
+		series is conditionally convergent
+	}
+
+==================================================
+ SHORTCUTS??
+==================================================
+
+geometric series test
+	series with non-zero terms
+	sum where n = 1 to infinity of a sub n
+		where (a sub n) is a function that can be represented as c(r^n)
+			c being the first term
+			r being the common ratio
+
+		if(|r| < 1){convergent}
+		else{divergent}
+
+p-series test
+	series with non-zero terms
+	sum where n = 1 to infinity of a sub n
+		where (a sub n) is a function that can be represented as 1/(n^p)
+
+		if(p > 1){convergent}
+		else{divergent}
+	

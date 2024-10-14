@@ -1,0 +1,14 @@
+==================================================
+ MAIN
+==================================================
+
+geometric series sum
+	series with non-zero terms
+	sum where n = 1 to infinity of a sub n
+		where (a sub n) is a function that can be represented as c(r^n)
+			c being the first term
+			r being the common ratio
+
+		when |r| < 1
+			the sum of the seires = (a sub 1)/(1-r)
+			/*(a sub 1) aka the first term of the series aka c*/
