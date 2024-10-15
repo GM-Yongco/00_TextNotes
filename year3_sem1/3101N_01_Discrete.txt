@@ -28,3 +28,69 @@ equals
 	-4, 6
 	-15, 10
 
+==================================================
+ TRANSPOSE
+==================================================
+	basically flip the matrix and invert the m and n coordiate
+		ie flip the matrix by the diabonal going from top left going bot right
+		
+	denoted by M^T
+
+==================================================
+ INVERSE
+==================================================
+
+where matrix A x B = identity matrix
+we can say A is the inverse of B and vice cersa
+denoted by M^-1
+
+(A|I) -> (I|A^-1)
+
+
+properties (assuming invertible):
+	(A^k)^-1 = (A^-1)^k
+	(cA)^-1 = (1/c)(A^-1)
+	(A^T)^-1 = (A^-1)^T
+
+	given
+		AC = BC 
+		or
+		CA = CB
+	where C is invertible
+		then A = B
+
+
+==================================================
+ INVERTIBLE (specifically for 2x2 matricies)
+==================================================
+
+2x2 determinant is non zero
+	determinant, D = ad-bc 
+	if ad-bc != 0 => inverse exists
+	
+get the inverse using determinant
+	1/D
+	multiplied by weird matrix W,
+		d -b
+		-c a
+	if and only if ad-bc != 0
+	
+==================================================
+
+is matrix M invertible?
+	where matrix M is
+		3 -1
+		-2 2
+	ad-bc != 0
+		3(2) - -2(-1)
+		6-2 = 4
+		4 is nonzeo => invertible
+	W is
+		2 1
+		2 3
+	inverted matrix should be
+		1/2 1/4
+		1/2 3/4
+
+==================================================
+matrix A^(-2)
