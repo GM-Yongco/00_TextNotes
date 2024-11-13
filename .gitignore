@@ -1,2 +1,6 @@
 desktop.ini
 temp.txt
+
+# *.COM
+*.SYM
+a86/
