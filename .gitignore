@@ -1,5 +1,7 @@
 desktop.ini
-temp.txt
+
+temp.*
+TEMP.*
 
 *.COM
 *.SYM
