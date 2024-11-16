@@ -3,4 +3,6 @@ temp.txt
 
 *.COM
 *.SYM
+*.ERR
+*.OLD
 a86/
